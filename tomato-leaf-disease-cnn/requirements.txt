@@ -1,0 +1,10 @@
+# The notebook was written in 2020 for Keras on TensorFlow 1.x (Python 3.6/3.7).
+tensorflow<2
+keras<2.4
+numpy
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+pandas
+jupyter
