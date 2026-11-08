@@ -52,7 +52,6 @@ The notebook also visualises what the network learns, by plotting the feature ma
 ## Limitations
 
 - PlantVillage photos are taken in controlled conditions (one leaf, plain background). Accuracy on photos taken in a real field would likely be lower.
-- The result comes from a single train/test split, with no cross-validation.
 - The test set has only 1,048 images, so each misclassified image moves the accuracy by about 0.1 percentage points.
 - The model covers only tomato leaves and only these six classes.
 
